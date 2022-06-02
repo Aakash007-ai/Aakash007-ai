@@ -64,16 +64,9 @@ __Mobile App Develop tools__
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="https://github.com/harshchhabra37/harshchhabra37/blob/main/pics/linkedin.svg"></a>
-<!--    <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a> -->
-
-<!--    <a href="https://github.com/harshchhabra37" class="pics"> <img src="pics/github.svg" height="36vh"></a> -->
-    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
-    <a href="https://www.instagram.com/harshchhabra37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="images/linkedin.svg" height="36vh"></a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="images/youtube.svg" height="36vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="images/gmail (1).svg" height="36vh"></a>
   
   </div>
 </p>
