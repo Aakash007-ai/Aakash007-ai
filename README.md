@@ -2,7 +2,7 @@
   
 <h1 align="center">Hi, I'm Aakash Phogat </h1>
   
-  <img src="images/octo.gif" width="100px" height="100px"></img> <br><br>
+<!--   <img src="images/octo.gif" width="100px" height="100px"></img> <br><br> -->
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+problemSolving...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
@@ -60,7 +60,21 @@ __Mobile App Develop tools__
     </a> 
 
 
-
+## Connect with me:</h3>
+<p align="left">
+<div class="footer" id="top3">
+  <center> 
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
+<!--    <a href="https://github.com/harshchhabra37" class="pics"> <img src="pics/github.svg" height="36vh"></a> -->
+    <a href="https://www.twitter.com/harshchhabra37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
+    <a href="https://www.instagram.com/harshchhabra37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
+  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
+  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
+  
+  </div>
+</p>
 
 
 
