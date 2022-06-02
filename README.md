@@ -23,6 +23,9 @@
 __Programming Languages__
 <!-- https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social -->
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />&nbsp;
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />&nbsp;
+  <img alt="Dart" src="https://img.shields.io/badge/C++-%2314354C.svg?style=for-the-badge&logo=C++&logoColor=white" />&nbsp;
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />&nbsp;
   
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img alt="Dart" src="https://img.shields.io/badge/Dart-%2314354C.svg?style=for-the-badge&logo=Dart&logoColor=white" />&nbsp;
