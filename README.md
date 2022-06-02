@@ -55,11 +55,15 @@ __Mobile App Develop tools__
     <a href="https://github.com/Aakash007-ai" target="_blank">
         <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&color=black" alt="Github" />
     </a>
+     <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="images/linkedin.svg" height="36vh"></a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="images/youtube.svg" height="36vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=aakashphogat16@gmail.com" class="pics"><img src="images/gmail (1).svg" height="36vh"></a>
 <!--     <a href="https://twitter.com/ArizArmeidi" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-2CA5E0?logo=twitter&style=for-the-badge&logoColor=white&color=black" alt="Twitter" />
     </a> 
+</p>
 
-
+<!-- 
 ## Connect with me:</h3>
 <p align="left">
 <div class="footer" id="top3">
@@ -69,7 +73,7 @@ __Mobile App Develop tools__
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="images/gmail (1).svg" height="36vh"></a>
   
   </div>
-</p>
+</p> -->
 
 
 
