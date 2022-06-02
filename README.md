@@ -21,9 +21,12 @@
 ## Experienced In:
 
 __Programming Languages__
-
+<!-- https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social -->
+  <img alt="Python" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />&nbsp;
+  
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img alt="Dart" src="https://img.shields.io/badge/Dart-%2314354C.svg?style=for-the-badge&logo=Dart&logoColor=white" />&nbsp;
+  
 <!-- <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2314354C.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp; -->
 
 __ML Frameworks and libraries__
